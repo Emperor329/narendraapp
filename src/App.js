@@ -10,7 +10,7 @@ import Contact from './component/contact';
 //   {name:"Naruto",language:"japanese",genre:"anime"},
 //   {name:"PeakyBlinders",language:"English",genre:"Thriller"},
 //   {name:"RRR",language:"Telugu",genre:"Action"}
-// ]
+// ]    
 
 const App = () => {
   return (
