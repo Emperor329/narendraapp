@@ -1,6 +1,6 @@
 ``theme Button``
 
-
+``javascript``
 export default function ThemeBtn() {
     return (
         <label className="relative inline-flex items-center cursor-pointer">
